@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501823804 source:c:\stuff\code\sort\5\untitled1.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+

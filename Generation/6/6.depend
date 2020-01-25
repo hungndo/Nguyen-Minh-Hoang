@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511634069 source:c:\stuff\code\generation\6\6.cpp
+	<iostream>
+	<stdio.h>
+

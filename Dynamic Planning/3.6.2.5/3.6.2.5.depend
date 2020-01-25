@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523810532 source:c:\stuff\computer science\c++\nguyen minh hoang\3.6.2.5\3.6.2.5.cpp
+	<iostream>
+	<fstream>
+

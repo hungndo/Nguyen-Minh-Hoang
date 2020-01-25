@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501790049 source:c:\stuff\code\xephau\untitled1.cpp
+	<iostream>
+	<stdio.h>
+

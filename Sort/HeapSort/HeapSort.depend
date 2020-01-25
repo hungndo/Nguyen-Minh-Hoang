@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500312319 source:c:\stuff\code\heapsort\untitled1.cpp
+	<iostream>
+	<stdio.h>
+
