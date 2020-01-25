@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501868812 source:c:\stuff\code\waytolongword\untitled1.cpp
+	<iostream>
+	<string>
+

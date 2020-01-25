@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446667744 source:c:\stuff\code\codeforce\permutation\main.cpp
+	<iostream>
+
+1511629050 source:c:\stuff\code\codeforce\permutation\permutation.cpp
+	<iostream>
+	<stdio.h>
+

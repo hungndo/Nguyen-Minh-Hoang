@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501874123 source:c:\stuff\code\maximumpath\untitled1.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+
